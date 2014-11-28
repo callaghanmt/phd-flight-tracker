@@ -1,0 +1,7 @@
+Program structure, objectives (what, done(y/n):
+
+Things to remember
+Branches ?
+Testing, asserting
+
+Ideas:
